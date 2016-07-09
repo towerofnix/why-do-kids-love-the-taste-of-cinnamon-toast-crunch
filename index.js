@@ -25,4 +25,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <http://unlicense.org/>
 */
 
-module.exports = () => "Because it's good"
+module.exports = function getReasonWhyKidsLoveTheTasteOfCinnamonToastCrunch() {
+  return "Because it's good"
+}
