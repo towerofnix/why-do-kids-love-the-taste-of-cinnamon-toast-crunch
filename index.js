@@ -26,5 +26,10 @@ For more information, please refer to <http://unlicense.org/>
 */
 
 module.exports = function getReasonWhyKidsLoveTheTasteOfCinnamonToastCrunch() {
-  return "Because it's good"
+  return "Don't stereotype"
 }
+
+module.exports.iMeanMost =
+  function getReasonWhyMostKidsLoveTheTasteOfCinnamonToastCrunch() {
+    return "Because it's good"
+  }
