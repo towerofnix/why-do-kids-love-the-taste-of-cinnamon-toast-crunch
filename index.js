@@ -29,7 +29,12 @@ module.exports = function getReasonWhyKidsLoveTheTasteOfCinnamonToastCrunch() {
   return "Don't stereotype"
 }
 
-module.exports.iMeanMost =
+module.exports.andAdults =
+  function getReasonWhyKidsAndAdultsLoveTheTasteOfCinnamonToastCrunch() {
+    return "Don't stereotype"
+  }
+
+module.exports.andAdults.iMeanMost = module.exports.iMeanMost =
   function getReasonWhyMostKidsLoveTheTasteOfCinnamonToastCrunch() {
     return "Because it's good"
   }
