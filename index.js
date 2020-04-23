@@ -26,7 +26,7 @@ For more information, please refer to <http://unlicense.org/>
 */
 
 module.exports = function getReasonWhyKidsLoveTheTasteOfCinnamonToastCrunch() {
-  return "Don't stereotype"
+  console.warn("Don't stereotype")
 }
 
 module.exports.iMeanMost =
