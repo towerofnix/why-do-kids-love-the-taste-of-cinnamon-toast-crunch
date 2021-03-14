@@ -33,3 +33,10 @@ module.exports.iMeanMost =
   function getReasonWhyMostKidsLoveTheTasteOfCinnamonToastCrunch() {
     return "Because it's good"
   }
+
+module.exports.butWhatActuallyIsCinnamonToastCrunchThough =
+  function nobodyEvahExplainedItToMe() {
+    return "Scientists still aren't sure, but we have a suspicion that it " +
+      "just might be a cereal involving cinnamon, toast, and something " +
+      "crunchy!"
+  }
