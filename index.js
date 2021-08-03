@@ -43,5 +43,6 @@ module.exports.butWhatActuallyIsCinnamonToastCrunchThough =
 
 module.exports.butWhyIsCinnamonToastCrunchGood = 
   function nobodyEvahExplainedThisToMeEither () {
-    return "It's simply a fact of life, you know? Birds fly, gravity falls, stevens universe, Cinnamon Toast Crunch is good."
+    return "It's simply a fact of life, you know? Birds fly, gravity falls, " +
+      "stevens universe, Cinnamon Toast Crunch is good."
   }
