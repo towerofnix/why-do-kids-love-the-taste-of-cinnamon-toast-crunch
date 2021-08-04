@@ -40,3 +40,9 @@ module.exports.butWhatActuallyIsCinnamonToastCrunchThough =
       "just might be a cereal involving cinnamon, toast, and something " +
       "crunchy!"
   }
+
+module.exports.butWhyIsCinnamonToastCrunchGood = 
+  function nobodyEvahExplainedThisToMeEither () {
+    return "It's simply a fact of life, you know? Birds fly, gravity falls, " +
+      "stevens universe, Cinnamon Toast Crunch is good."
+  }
