@@ -46,3 +46,12 @@ module.exports.butWhyIsCinnamonToastCrunchGood =
     return "It's simply a fact of life, you know? Birds fly, gravity falls, " +
       "stevens universe, Cinnamon Toast Crunch is good."
   }
+
+module.exports.butCanIHaveItForDinner = 
+  function nobodyToldMeYouCould() {
+
+return "Haven't heard of it, but you can have it for breakfast... and lunch..." + 
+  "and as a snack... and pretty much whenever you want... " +
+  "I guess that includes dinner too."
+
+}
