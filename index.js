@@ -50,7 +50,7 @@ module.exports.butWhyIsCinnamonToastCrunchGood =
 module.exports.butCanIHaveItForDinner = 
   function nobodyToldMeYouThatYouCould() {
 
-return "Haven't heard of it, but you can have it for breakfast... and lunch..." + 
+return "Haven't heard of it, but you can have it for breakfast... and lunch... " + 
   "and as a snack... and pretty much whenever you want... " +
   "I guess that includes dinner too."
 
