@@ -53,3 +53,13 @@ module.exports.butCanIHaveItForDinner =
       "and as a snack... and pretty much whenever you want... " +
       "I guess that includes dinner too."
   }
+module.exports.canIHaveItWithMilk = function getMilkCombinations() {
+  return [
+    "2% milk",
+    "Whole milk",
+    "Almond milk",
+    "Coconut milk",
+    "Soy Milk",
+    "Cinnamon Milk"
+  ];
+}
