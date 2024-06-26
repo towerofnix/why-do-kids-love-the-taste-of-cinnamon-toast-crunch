@@ -53,8 +53,13 @@ module.exports.butCanIHaveItForDinner =
       "and as a snack... and pretty much whenever you want... " +
       "I guess that includes dinner too."
   }
-module.exports.canIHaveItWithMilk =
-  function getMilkCombinationsThatGoWithCinnamonToastCrunch() {
-    return "2%? Whole milk? Almond milk? Coconut milk? Soy Milk? The possibilities " +
-      "are endless! However I'd say the best option is Cinnamon Milk."
-  }
+module.exports.canIHaveItWithMilk = function getMilkCombinations() {
+  return [
+    "2% milk",
+    "Whole milk",
+    "Almond milk",
+    "Coconut milk",
+    "Soy Milk",
+    "Cinnamon Milk"
+  ];
+}
