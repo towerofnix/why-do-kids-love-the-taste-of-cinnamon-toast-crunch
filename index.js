@@ -56,5 +56,5 @@ module.exports.butCanIHaveItForDinner =
 module.exports.canIHaveItWithMilk =
   function getMilkCombinationsThatGoWithCinnamonToastCrunch() {
     return "2%? Whole milk? Almond milk? Coconut milk? Soy Milk? The possibilities " +
-      "are endless! Don't forget about Oat Milk and Cinnamon Milk (the best choice)"
+      "are endless! However I'd say the best option is Cinnamon Milk."
   }
