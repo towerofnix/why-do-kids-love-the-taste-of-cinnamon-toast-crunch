@@ -1,6 +1,6 @@
 {
   "name": "why-do-kids-love-the-taste-of-cinnamon-toast-crunch",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "description": "Why do kids love the taste of Cinnamon Toast Crunch?",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "author": "towerofnix",
   "license": "UNLICENSED",
-  "repository": "https://github.com/towerofnix/why-do-kids-love-the-taste-of-cinnamon-toast-crunch.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/towerofnix/why-do-kids-love-the-taste-of-cinnamon-toast-crunch.git"
+  }
 }
